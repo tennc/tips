@@ -13,3 +13,9 @@
 5. [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 
 6. [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+
+7. [punishell/bbtips](https://github.com/punishell/bbtips)
+
+8. [Neelakandan-A/BugBounty_CheatSheet](https://github.com/Neelakandan-A/BugBounty_CheatSheet)
+
+9. [giteshnxtlvl/YourNextBugTip](https://github.com/giteshnxtlvl/YourNextBugTip)
