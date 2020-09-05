@@ -9,3 +9,7 @@
 3. [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
 
 4. [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
+
+5. [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
+
+6. [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
