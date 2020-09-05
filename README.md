@@ -6,4 +6,6 @@
 
 2. [mark-zh/BugBountyTips](https://github.com/mark-zh/BugBountyTips)
 
-3. [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
+3. [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
+
+4. [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
