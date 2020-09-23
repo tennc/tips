@@ -21,3 +21,5 @@
 9. [giteshnxtlvl/YourNextBugTip](https://github.com/giteshnxtlvl/YourNextBugTip)
 
 10. [MD15/AllAboutBugBounty](https://github.com/MD15/AllAboutBugBounty)
+
+11. [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
